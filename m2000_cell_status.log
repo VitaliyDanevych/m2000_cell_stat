@@ -1,0 +1,275 @@
+2017-09-27 21:08:01,539 - constans - INFO - n2g_path_file: /home/na_scripts/m2000_cell_status/2g_cell_report/Report_GSM_Cell_Report_gsm_cell_status_report_hour_21_20170927.csv, n3g_path_file:  /home/na_scripts/m2000_cell_status/3g_cell_report/Report_UMTS_Cell_Report_umts_cell_status_report_hour_21_20170927.csv
+2017-09-27 21:08:01,540 - constans - INFO - Start connecting to database
+2017-09-27 21:08:01,587 - constans - INFO - The NLS_DATE_FORMAT and NLS_TIMESTAMP_FORMAT for DB SESSION are SET
+2017-09-27 21:08:01,588 - constans - INFO - data_from_db: <cx_Oracle.Cursor on <cx_Oracle.Connection to configuration@10.1.30.64:1521/optima>>
+2017-09-27 21:08:01,589 - constans - INFO - local_time:  27.09.2017 21:08:01
+2017-09-27 21:08:01,589 - constans - INFO - the full file path:  /home/na_scripts/m2000_cell_status/2g_cell_report/Report_GSM_Cell_Report_gsm_cell_status_report_hour_21_20170927.csv
+2017-09-27 21:08:01,589 - constans - INFO - I will miss 1st line!
+2017-09-27 21:08:51,323 - constans - INFO - data_from_db: <cx_Oracle.Cursor on <cx_Oracle.Connection to configuration@10.1.30.64:1521/optima>>
+2017-09-27 21:08:51,323 - constans - INFO - local_time:  27.09.2017 21:08:01
+2017-09-27 21:08:51,324 - constans - INFO - the full file path:  /home/na_scripts/m2000_cell_status/3g_cell_report/Report_UMTS_Cell_Report_umts_cell_status_report_hour_21_20170927.csv
+2017-09-27 21:08:51,324 - constans - INFO - I will miss 1st line!
+2017-09-27 21:10:35,370 - constans - INFO - Close connection to database
+2017-09-27 22:08:01,498 - constans - INFO - *** Connected to host: 10.3.16.16 ***
+2017-09-27 22:08:01,501 - constans - INFO - *** Listed the directory: /opt/oss/server/var/fileint/cm/Report
+2017-09-27 22:08:01,501 - constans - INFO - You are within of: /opt/oss/server/var/fileint/cm/Report
+2017-09-27 22:08:01,503 - constans - INFO - Pattern is 22_20170927
+2017-09-27 22:08:01,504 - constans - INFO - I will download the 2g file from ftp
+2017-09-27 22:08:01,504 - constans - INFO - needed_file_name: Report_GSM Cell Report_gsm_cell_status_report_hour_22_20170927.csv
+2017-09-27 22:08:01,519 - constans - INFO - file: Report_GSM Cell Report_gsm_cell_status_report_hour_22_20170927.csv  --> /home/na_scripts/m2000_cell_status/2g_cell_report/ Report_GSM_Cell_Report_gsm_cell_status_report_hour_22_20170927.csv copied. 
+2017-09-27 22:08:01,519 - constans - INFO - Pattern is 22_20170927
+2017-09-27 22:08:01,520 - constans - INFO - I will download the 3g file from ftp
+2017-09-27 22:08:01,520 - constans - INFO - needed_file_name: Report_UMTS Cell Report_umts_cell_status_report_hour_22_20170927.csv
+2017-09-27 22:08:01,556 - constans - INFO - file: Report_UMTS Cell Report_umts_cell_status_report_hour_22_20170927.csv  --> /home/na_scripts/m2000_cell_status/3g_cell_report/ Report_UMTS_Cell_Report_umts_cell_status_report_hour_22_20170927.csv copied. 
+2017-09-27 22:08:01,556 - constans - INFO - n2g_path_file: /home/na_scripts/m2000_cell_status/2g_cell_report/Report_GSM_Cell_Report_gsm_cell_status_report_hour_22_20170927.csv, n3g_path_file:  /home/na_scripts/m2000_cell_status/3g_cell_report/Report_UMTS_Cell_Report_umts_cell_status_report_hour_22_20170927.csv
+2017-09-27 22:08:01,556 - constans - INFO - Start connecting to database
+2017-09-27 22:08:01,598 - constans - INFO - The NLS_DATE_FORMAT and NLS_TIMESTAMP_FORMAT for DB SESSION are SET
+2017-09-27 22:08:01,599 - constans - INFO - data_from_db: <cx_Oracle.Cursor on <cx_Oracle.Connection to configuration@10.1.30.64:1521/optima>>
+2017-09-27 22:08:01,599 - constans - INFO - local_time:  27.09.2017 22:08:01
+2017-09-27 22:08:01,599 - constans - INFO - the full file path:  /home/na_scripts/m2000_cell_status/2g_cell_report/Report_GSM_Cell_Report_gsm_cell_status_report_hour_22_20170927.csv
+2017-09-27 22:08:01,599 - constans - INFO - I will miss 1st line!
+2017-09-27 22:08:57,713 - constans - INFO - data_from_db: <cx_Oracle.Cursor on <cx_Oracle.Connection to configuration@10.1.30.64:1521/optima>>
+2017-09-27 22:08:57,715 - constans - INFO - local_time:  27.09.2017 22:08:01
+2017-09-27 22:08:57,715 - constans - INFO - the full file path:  /home/na_scripts/m2000_cell_status/3g_cell_report/Report_UMTS_Cell_Report_umts_cell_status_report_hour_22_20170927.csv
+2017-09-27 22:08:57,715 - constans - INFO - I will miss 1st line!
+2017-09-27 22:10:34,222 - constans - INFO - Close connection to database
+2017-09-27 23:08:01,388 - constans - INFO - *** Connected to host: 10.3.16.16 ***
+2017-09-27 23:08:01,391 - constans - INFO - *** Listed the directory: /opt/oss/server/var/fileint/cm/Report
+2017-09-27 23:08:01,391 - constans - INFO - You are within of: /opt/oss/server/var/fileint/cm/Report
+2017-09-27 23:08:01,394 - constans - INFO - Pattern is 23_20170927
+2017-09-27 23:08:01,395 - constans - CRITICAL - The function get_needed_filename occurs TypeError exeption
+2017-09-28 00:08:01,618 - constans - INFO - *** Connected to host: 10.3.16.16 ***
+2017-09-28 00:08:01,621 - constans - INFO - *** Listed the directory: /opt/oss/server/var/fileint/cm/Report
+2017-09-28 00:08:01,622 - constans - INFO - You are within of: /opt/oss/server/var/fileint/cm/Report
+2017-09-28 00:08:01,625 - constans - INFO - Pattern is 00_20170928
+2017-09-28 00:08:01,625 - constans - CRITICAL - The function get_needed_filename occurs TypeError exeption
+2017-09-28 01:08:01,832 - constans - INFO - *** Connected to host: 10.3.16.16 ***
+2017-09-28 01:08:01,836 - constans - INFO - *** Listed the directory: /opt/oss/server/var/fileint/cm/Report
+2017-09-28 01:08:01,837 - constans - INFO - You are within of: /opt/oss/server/var/fileint/cm/Report
+2017-09-28 01:08:01,845 - constans - INFO - Pattern is 01_20170928
+2017-09-28 01:08:01,845 - constans - INFO - I will download the 2g file from ftp
+2017-09-28 01:08:01,845 - constans - INFO - needed_file_name: Report_GSM Cell Report_gsm_cell_status_report_hour_01_20170928.csv
+2017-09-28 01:08:01,876 - constans - INFO - file: Report_GSM Cell Report_gsm_cell_status_report_hour_01_20170928.csv  --> /home/na_scripts/m2000_cell_status/2g_cell_report/ Report_GSM_Cell_Report_gsm_cell_status_report_hour_01_20170928.csv copied. 
+2017-09-28 01:08:01,876 - constans - INFO - Pattern is 01_20170928
+2017-09-28 01:08:01,877 - constans - INFO - I will download the 3g file from ftp
+2017-09-28 01:08:01,877 - constans - INFO - needed_file_name: Report_UMTS Cell Report_umts_cell_status_report_hour_01_20170928.csv
+2017-09-28 01:08:01,946 - constans - INFO - file: Report_UMTS Cell Report_umts_cell_status_report_hour_01_20170928.csv  --> /home/na_scripts/m2000_cell_status/3g_cell_report/ Report_UMTS_Cell_Report_umts_cell_status_report_hour_01_20170928.csv copied. 
+2017-09-28 01:08:01,947 - constans - INFO - n2g_path_file: /home/na_scripts/m2000_cell_status/2g_cell_report/Report_GSM_Cell_Report_gsm_cell_status_report_hour_01_20170928.csv, n3g_path_file:  /home/na_scripts/m2000_cell_status/3g_cell_report/Report_UMTS_Cell_Report_umts_cell_status_report_hour_01_20170928.csv
+2017-09-28 01:08:01,947 - constans - INFO - Start connecting to database
+2017-09-28 01:08:02,004 - constans - INFO - The NLS_DATE_FORMAT and NLS_TIMESTAMP_FORMAT for DB SESSION are SET
+2017-09-28 01:08:02,006 - constans - INFO - data_from_db: <cx_Oracle.Cursor on <cx_Oracle.Connection to configuration@10.1.30.64:1521/optima>>
+2017-09-28 01:08:02,006 - constans - INFO - local_time:  28.09.2017 01:08:01
+2017-09-28 01:08:02,006 - constans - INFO - the full file path:  /home/na_scripts/m2000_cell_status/2g_cell_report/Report_GSM_Cell_Report_gsm_cell_status_report_hour_01_20170928.csv
+2017-09-28 01:08:02,006 - constans - INFO - I will miss 1st line!
+2017-09-28 01:09:16,140 - constans - INFO - data_from_db: <cx_Oracle.Cursor on <cx_Oracle.Connection to configuration@10.1.30.64:1521/optima>>
+2017-09-28 01:09:16,141 - constans - INFO - local_time:  28.09.2017 01:08:01
+2017-09-28 01:09:16,141 - constans - INFO - the full file path:  /home/na_scripts/m2000_cell_status/3g_cell_report/Report_UMTS_Cell_Report_umts_cell_status_report_hour_01_20170928.csv
+2017-09-28 01:09:16,141 - constans - INFO - I will miss 1st line!
+2017-09-28 01:11:10,929 - constans - INFO - Close connection to database
+2017-09-28 02:08:01,065 - constans - INFO - *** Connected to host: 10.3.16.16 ***
+2017-09-28 02:08:01,075 - constans - INFO - *** Listed the directory: /opt/oss/server/var/fileint/cm/Report
+2017-09-28 02:08:01,077 - constans - INFO - You are within of: /opt/oss/server/var/fileint/cm/Report
+2017-09-28 02:08:01,095 - constans - INFO - Pattern is 02_20170928
+2017-09-28 02:08:01,095 - constans - INFO - I will download the 2g file from ftp
+2017-09-28 02:08:01,095 - constans - INFO - needed_file_name: Report_GSM Cell Report_gsm_cell_status_report_hour_02_20170928.csv
+2017-09-28 02:08:01,137 - constans - INFO - file: Report_GSM Cell Report_gsm_cell_status_report_hour_02_20170928.csv  --> /home/na_scripts/m2000_cell_status/2g_cell_report/ Report_GSM_Cell_Report_gsm_cell_status_report_hour_02_20170928.csv copied. 
+2017-09-28 02:08:01,137 - constans - INFO - Pattern is 02_20170928
+2017-09-28 02:08:01,137 - constans - INFO - I will download the 3g file from ftp
+2017-09-28 02:08:01,137 - constans - INFO - needed_file_name: Report_UMTS Cell Report_umts_cell_status_report_hour_02_20170928.csv
+2017-09-28 02:08:01,178 - constans - INFO - file: Report_UMTS Cell Report_umts_cell_status_report_hour_02_20170928.csv  --> /home/na_scripts/m2000_cell_status/3g_cell_report/ Report_UMTS_Cell_Report_umts_cell_status_report_hour_02_20170928.csv copied. 
+2017-09-28 02:08:01,179 - constans - INFO - n2g_path_file: /home/na_scripts/m2000_cell_status/2g_cell_report/Report_GSM_Cell_Report_gsm_cell_status_report_hour_02_20170928.csv, n3g_path_file:  /home/na_scripts/m2000_cell_status/3g_cell_report/Report_UMTS_Cell_Report_umts_cell_status_report_hour_02_20170928.csv
+2017-09-28 02:08:01,179 - constans - INFO - Start connecting to database
+2017-09-28 02:08:01,233 - constans - INFO - The NLS_DATE_FORMAT and NLS_TIMESTAMP_FORMAT for DB SESSION are SET
+2017-09-28 02:08:01,234 - constans - INFO - data_from_db: <cx_Oracle.Cursor on <cx_Oracle.Connection to configuration@10.1.30.64:1521/optima>>
+2017-09-28 02:08:01,234 - constans - INFO - local_time:  28.09.2017 02:08:01
+2017-09-28 02:08:01,234 - constans - INFO - the full file path:  /home/na_scripts/m2000_cell_status/2g_cell_report/Report_GSM_Cell_Report_gsm_cell_status_report_hour_02_20170928.csv
+2017-09-28 02:08:01,234 - constans - INFO - I will miss 1st line!
+2017-09-28 02:08:51,525 - constans - INFO - data_from_db: <cx_Oracle.Cursor on <cx_Oracle.Connection to configuration@10.1.30.64:1521/optima>>
+2017-09-28 02:08:51,525 - constans - INFO - local_time:  28.09.2017 02:08:01
+2017-09-28 02:08:51,525 - constans - INFO - the full file path:  /home/na_scripts/m2000_cell_status/3g_cell_report/Report_UMTS_Cell_Report_umts_cell_status_report_hour_02_20170928.csv
+2017-09-28 02:08:51,525 - constans - INFO - I will miss 1st line!
+2017-09-28 02:10:10,804 - constans - INFO - Close connection to database
+2017-09-28 03:08:01,932 - constans - INFO - *** Connected to host: 10.3.16.16 ***
+2017-09-28 03:08:01,934 - constans - INFO - *** Listed the directory: /opt/oss/server/var/fileint/cm/Report
+2017-09-28 03:08:01,935 - constans - INFO - You are within of: /opt/oss/server/var/fileint/cm/Report
+2017-09-28 03:08:01,937 - constans - INFO - Pattern is 03_20170928
+2017-09-28 03:08:01,938 - constans - INFO - I will download the 2g file from ftp
+2017-09-28 03:08:01,938 - constans - INFO - needed_file_name: Report_GSM Cell Report_gsm_cell_status_report_hour_03_20170928.csv
+2017-09-28 03:08:01,958 - constans - INFO - file: Report_GSM Cell Report_gsm_cell_status_report_hour_03_20170928.csv  --> /home/na_scripts/m2000_cell_status/2g_cell_report/ Report_GSM_Cell_Report_gsm_cell_status_report_hour_03_20170928.csv copied. 
+2017-09-28 03:08:01,958 - constans - INFO - Pattern is 03_20170928
+2017-09-28 03:08:01,958 - constans - INFO - I will download the 3g file from ftp
+2017-09-28 03:08:01,958 - constans - INFO - needed_file_name: Report_UMTS Cell Report_umts_cell_status_report_hour_03_20170928.csv
+2017-09-28 03:08:02,002 - constans - INFO - file: Report_UMTS Cell Report_umts_cell_status_report_hour_03_20170928.csv  --> /home/na_scripts/m2000_cell_status/3g_cell_report/ Report_UMTS_Cell_Report_umts_cell_status_report_hour_03_20170928.csv copied. 
+2017-09-28 03:08:02,003 - constans - INFO - n2g_path_file: /home/na_scripts/m2000_cell_status/2g_cell_report/Report_GSM_Cell_Report_gsm_cell_status_report_hour_03_20170928.csv, n3g_path_file:  /home/na_scripts/m2000_cell_status/3g_cell_report/Report_UMTS_Cell_Report_umts_cell_status_report_hour_03_20170928.csv
+2017-09-28 03:08:02,003 - constans - INFO - Start connecting to database
+2017-09-28 03:08:02,049 - constans - INFO - The NLS_DATE_FORMAT and NLS_TIMESTAMP_FORMAT for DB SESSION are SET
+2017-09-28 03:08:02,050 - constans - INFO - data_from_db: <cx_Oracle.Cursor on <cx_Oracle.Connection to configuration@10.1.30.64:1521/optima>>
+2017-09-28 03:08:02,051 - constans - INFO - local_time:  28.09.2017 03:08:01
+2017-09-28 03:08:02,051 - constans - INFO - the full file path:  /home/na_scripts/m2000_cell_status/2g_cell_report/Report_GSM_Cell_Report_gsm_cell_status_report_hour_03_20170928.csv
+2017-09-28 03:08:02,051 - constans - INFO - I will miss 1st line!
+2017-09-28 03:09:03,706 - constans - INFO - data_from_db: <cx_Oracle.Cursor on <cx_Oracle.Connection to configuration@10.1.30.64:1521/optima>>
+2017-09-28 03:09:03,706 - constans - INFO - local_time:  28.09.2017 03:08:01
+2017-09-28 03:09:03,706 - constans - INFO - the full file path:  /home/na_scripts/m2000_cell_status/3g_cell_report/Report_UMTS_Cell_Report_umts_cell_status_report_hour_03_20170928.csv
+2017-09-28 03:09:03,707 - constans - INFO - I will miss 1st line!
+2017-09-28 03:10:52,217 - constans - INFO - Close connection to database
+2017-09-28 04:08:01,364 - constans - INFO - *** Connected to host: 10.3.16.16 ***
+2017-09-28 04:08:01,367 - constans - INFO - *** Listed the directory: /opt/oss/server/var/fileint/cm/Report
+2017-09-28 04:08:01,367 - constans - INFO - You are within of: /opt/oss/server/var/fileint/cm/Report
+2017-09-28 04:08:01,370 - constans - INFO - Pattern is 04_20170928
+2017-09-28 04:08:01,370 - constans - INFO - I will download the 2g file from ftp
+2017-09-28 04:08:01,370 - constans - INFO - needed_file_name: Report_GSM Cell Report_gsm_cell_status_report_hour_04_20170928.csv
+2017-09-28 04:08:01,389 - constans - INFO - file: Report_GSM Cell Report_gsm_cell_status_report_hour_04_20170928.csv  --> /home/na_scripts/m2000_cell_status/2g_cell_report/ Report_GSM_Cell_Report_gsm_cell_status_report_hour_04_20170928.csv copied. 
+2017-09-28 04:08:01,389 - constans - INFO - Pattern is 04_20170928
+2017-09-28 04:08:01,389 - constans - INFO - I will download the 3g file from ftp
+2017-09-28 04:08:01,389 - constans - INFO - needed_file_name: Report_UMTS Cell Report_umts_cell_status_report_hour_04_20170928.csv
+2017-09-28 04:08:01,436 - constans - INFO - file: Report_UMTS Cell Report_umts_cell_status_report_hour_04_20170928.csv  --> /home/na_scripts/m2000_cell_status/3g_cell_report/ Report_UMTS_Cell_Report_umts_cell_status_report_hour_04_20170928.csv copied. 
+2017-09-28 04:08:01,436 - constans - INFO - n2g_path_file: /home/na_scripts/m2000_cell_status/2g_cell_report/Report_GSM_Cell_Report_gsm_cell_status_report_hour_04_20170928.csv, n3g_path_file:  /home/na_scripts/m2000_cell_status/3g_cell_report/Report_UMTS_Cell_Report_umts_cell_status_report_hour_04_20170928.csv
+2017-09-28 04:08:01,437 - constans - INFO - Start connecting to database
+2017-09-28 04:08:01,481 - constans - INFO - The NLS_DATE_FORMAT and NLS_TIMESTAMP_FORMAT for DB SESSION are SET
+2017-09-28 04:08:01,483 - constans - INFO - data_from_db: <cx_Oracle.Cursor on <cx_Oracle.Connection to configuration@10.1.30.64:1521/optima>>
+2017-09-28 04:08:01,483 - constans - INFO - local_time:  28.09.2017 04:08:01
+2017-09-28 04:08:01,483 - constans - INFO - the full file path:  /home/na_scripts/m2000_cell_status/2g_cell_report/Report_GSM_Cell_Report_gsm_cell_status_report_hour_04_20170928.csv
+2017-09-28 04:08:01,483 - constans - INFO - I will miss 1st line!
+2017-09-28 04:08:55,303 - constans - INFO - data_from_db: <cx_Oracle.Cursor on <cx_Oracle.Connection to configuration@10.1.30.64:1521/optima>>
+2017-09-28 04:08:55,303 - constans - INFO - local_time:  28.09.2017 04:08:01
+2017-09-28 04:08:55,303 - constans - INFO - the full file path:  /home/na_scripts/m2000_cell_status/3g_cell_report/Report_UMTS_Cell_Report_umts_cell_status_report_hour_04_20170928.csv
+2017-09-28 04:08:55,303 - constans - INFO - I will miss 1st line!
+2017-09-28 04:10:22,929 - constans - INFO - Close connection to database
+2017-09-28 05:08:01,057 - constans - INFO - *** Connected to host: 10.3.16.16 ***
+2017-09-28 05:08:01,059 - constans - INFO - *** Listed the directory: /opt/oss/server/var/fileint/cm/Report
+2017-09-28 05:08:01,060 - constans - INFO - You are within of: /opt/oss/server/var/fileint/cm/Report
+2017-09-28 05:08:01,062 - constans - INFO - Pattern is 05_20170928
+2017-09-28 05:08:01,063 - constans - INFO - I will download the 2g file from ftp
+2017-09-28 05:08:01,063 - constans - INFO - needed_file_name: Report_GSM Cell Report_gsm_cell_status_report_hour_05_20170928.csv
+2017-09-28 05:08:01,080 - constans - INFO - file: Report_GSM Cell Report_gsm_cell_status_report_hour_05_20170928.csv  --> /home/na_scripts/m2000_cell_status/2g_cell_report/ Report_GSM_Cell_Report_gsm_cell_status_report_hour_05_20170928.csv copied. 
+2017-09-28 05:08:01,080 - constans - INFO - Pattern is 05_20170928
+2017-09-28 05:08:01,080 - constans - INFO - I will download the 3g file from ftp
+2017-09-28 05:08:01,080 - constans - INFO - needed_file_name: Report_UMTS Cell Report_umts_cell_status_report_hour_05_20170928.csv
+2017-09-28 05:08:01,120 - constans - INFO - file: Report_UMTS Cell Report_umts_cell_status_report_hour_05_20170928.csv  --> /home/na_scripts/m2000_cell_status/3g_cell_report/ Report_UMTS_Cell_Report_umts_cell_status_report_hour_05_20170928.csv copied. 
+2017-09-28 05:08:01,120 - constans - INFO - n2g_path_file: /home/na_scripts/m2000_cell_status/2g_cell_report/Report_GSM_Cell_Report_gsm_cell_status_report_hour_05_20170928.csv, n3g_path_file:  /home/na_scripts/m2000_cell_status/3g_cell_report/Report_UMTS_Cell_Report_umts_cell_status_report_hour_05_20170928.csv
+2017-09-28 05:08:01,120 - constans - INFO - Start connecting to database
+2017-09-28 05:08:01,162 - constans - INFO - The NLS_DATE_FORMAT and NLS_TIMESTAMP_FORMAT for DB SESSION are SET
+2017-09-28 05:08:01,164 - constans - INFO - data_from_db: <cx_Oracle.Cursor on <cx_Oracle.Connection to configuration@10.1.30.64:1521/optima>>
+2017-09-28 05:08:01,164 - constans - INFO - local_time:  28.09.2017 05:08:01
+2017-09-28 05:08:01,164 - constans - INFO - the full file path:  /home/na_scripts/m2000_cell_status/2g_cell_report/Report_GSM_Cell_Report_gsm_cell_status_report_hour_05_20170928.csv
+2017-09-28 05:08:01,164 - constans - INFO - I will miss 1st line!
+2017-09-28 05:09:02,075 - constans - INFO - data_from_db: <cx_Oracle.Cursor on <cx_Oracle.Connection to configuration@10.1.30.64:1521/optima>>
+2017-09-28 05:09:02,075 - constans - INFO - local_time:  28.09.2017 05:08:01
+2017-09-28 05:09:02,075 - constans - INFO - the full file path:  /home/na_scripts/m2000_cell_status/3g_cell_report/Report_UMTS_Cell_Report_umts_cell_status_report_hour_05_20170928.csv
+2017-09-28 05:09:02,075 - constans - INFO - I will miss 1st line!
+2017-09-28 05:10:29,542 - constans - INFO - Close connection to database
+2017-09-28 06:08:01,664 - constans - INFO - *** Connected to host: 10.3.16.16 ***
+2017-09-28 06:08:01,666 - constans - INFO - *** Listed the directory: /opt/oss/server/var/fileint/cm/Report
+2017-09-28 06:08:01,666 - constans - INFO - You are within of: /opt/oss/server/var/fileint/cm/Report
+2017-09-28 06:08:01,669 - constans - INFO - Pattern is 06_20170928
+2017-09-28 06:08:01,669 - constans - INFO - I will download the 2g file from ftp
+2017-09-28 06:08:01,669 - constans - INFO - needed_file_name: Report_GSM Cell Report_gsm_cell_status_report_hour_06_20170928.csv
+2017-09-28 06:08:01,686 - constans - INFO - file: Report_GSM Cell Report_gsm_cell_status_report_hour_06_20170928.csv  --> /home/na_scripts/m2000_cell_status/2g_cell_report/ Report_GSM_Cell_Report_gsm_cell_status_report_hour_06_20170928.csv copied. 
+2017-09-28 06:08:01,686 - constans - INFO - Pattern is 06_20170928
+2017-09-28 06:08:01,686 - constans - INFO - I will download the 3g file from ftp
+2017-09-28 06:08:01,686 - constans - INFO - needed_file_name: Report_UMTS Cell Report_umts_cell_status_report_hour_06_20170928.csv
+2017-09-28 06:08:01,726 - constans - INFO - file: Report_UMTS Cell Report_umts_cell_status_report_hour_06_20170928.csv  --> /home/na_scripts/m2000_cell_status/3g_cell_report/ Report_UMTS_Cell_Report_umts_cell_status_report_hour_06_20170928.csv copied. 
+2017-09-28 06:08:01,727 - constans - INFO - n2g_path_file: /home/na_scripts/m2000_cell_status/2g_cell_report/Report_GSM_Cell_Report_gsm_cell_status_report_hour_06_20170928.csv, n3g_path_file:  /home/na_scripts/m2000_cell_status/3g_cell_report/Report_UMTS_Cell_Report_umts_cell_status_report_hour_06_20170928.csv
+2017-09-28 06:08:01,727 - constans - INFO - Start connecting to database
+2017-09-28 06:08:01,763 - constans - INFO - The NLS_DATE_FORMAT and NLS_TIMESTAMP_FORMAT for DB SESSION are SET
+2017-09-28 06:08:01,764 - constans - INFO - data_from_db: <cx_Oracle.Cursor on <cx_Oracle.Connection to configuration@10.1.30.64:1521/optima>>
+2017-09-28 06:08:01,765 - constans - INFO - local_time:  28.09.2017 06:08:01
+2017-09-28 06:08:01,765 - constans - INFO - the full file path:  /home/na_scripts/m2000_cell_status/2g_cell_report/Report_GSM_Cell_Report_gsm_cell_status_report_hour_06_20170928.csv
+2017-09-28 06:08:01,765 - constans - INFO - I will miss 1st line!
+2017-09-28 06:08:37,231 - constans - INFO - data_from_db: <cx_Oracle.Cursor on <cx_Oracle.Connection to configuration@10.1.30.64:1521/optima>>
+2017-09-28 06:08:37,231 - constans - INFO - local_time:  28.09.2017 06:08:01
+2017-09-28 06:08:37,232 - constans - INFO - the full file path:  /home/na_scripts/m2000_cell_status/3g_cell_report/Report_UMTS_Cell_Report_umts_cell_status_report_hour_06_20170928.csv
+2017-09-28 06:08:37,232 - constans - INFO - I will miss 1st line!
+2017-09-28 06:09:38,304 - constans - INFO - Close connection to database
+2017-09-28 07:08:01,438 - constans - INFO - *** Connected to host: 10.3.16.16 ***
+2017-09-28 07:08:01,440 - constans - INFO - *** Listed the directory: /opt/oss/server/var/fileint/cm/Report
+2017-09-28 07:08:01,441 - constans - INFO - You are within of: /opt/oss/server/var/fileint/cm/Report
+2017-09-28 07:08:01,443 - constans - INFO - Pattern is 07_20170928
+2017-09-28 07:08:01,444 - constans - INFO - I will download the 2g file from ftp
+2017-09-28 07:08:01,444 - constans - INFO - needed_file_name: Report_GSM Cell Report_gsm_cell_status_report_hour_07_20170928.csv
+2017-09-28 07:08:01,459 - constans - INFO - file: Report_GSM Cell Report_gsm_cell_status_report_hour_07_20170928.csv  --> /home/na_scripts/m2000_cell_status/2g_cell_report/ Report_GSM_Cell_Report_gsm_cell_status_report_hour_07_20170928.csv copied. 
+2017-09-28 07:08:01,460 - constans - INFO - Pattern is 07_20170928
+2017-09-28 07:08:01,460 - constans - INFO - I will download the 3g file from ftp
+2017-09-28 07:08:01,460 - constans - INFO - needed_file_name: Report_UMTS Cell Report_umts_cell_status_report_hour_07_20170928.csv
+2017-09-28 07:08:01,498 - constans - INFO - file: Report_UMTS Cell Report_umts_cell_status_report_hour_07_20170928.csv  --> /home/na_scripts/m2000_cell_status/3g_cell_report/ Report_UMTS_Cell_Report_umts_cell_status_report_hour_07_20170928.csv copied. 
+2017-09-28 07:08:01,498 - constans - INFO - n2g_path_file: /home/na_scripts/m2000_cell_status/2g_cell_report/Report_GSM_Cell_Report_gsm_cell_status_report_hour_07_20170928.csv, n3g_path_file:  /home/na_scripts/m2000_cell_status/3g_cell_report/Report_UMTS_Cell_Report_umts_cell_status_report_hour_07_20170928.csv
+2017-09-28 07:08:01,498 - constans - INFO - Start connecting to database
+2017-09-28 07:08:01,536 - constans - INFO - The NLS_DATE_FORMAT and NLS_TIMESTAMP_FORMAT for DB SESSION are SET
+2017-09-28 07:08:01,537 - constans - INFO - data_from_db: <cx_Oracle.Cursor on <cx_Oracle.Connection to configuration@10.1.30.64:1521/optima>>
+2017-09-28 07:08:01,537 - constans - INFO - local_time:  28.09.2017 07:08:01
+2017-09-28 07:08:01,537 - constans - INFO - the full file path:  /home/na_scripts/m2000_cell_status/2g_cell_report/Report_GSM_Cell_Report_gsm_cell_status_report_hour_07_20170928.csv
+2017-09-28 07:08:01,537 - constans - INFO - I will miss 1st line!
+2017-09-28 07:08:50,578 - constans - INFO - data_from_db: <cx_Oracle.Cursor on <cx_Oracle.Connection to configuration@10.1.30.64:1521/optima>>
+2017-09-28 07:08:50,578 - constans - INFO - local_time:  28.09.2017 07:08:01
+2017-09-28 07:08:50,578 - constans - INFO - the full file path:  /home/na_scripts/m2000_cell_status/3g_cell_report/Report_UMTS_Cell_Report_umts_cell_status_report_hour_07_20170928.csv
+2017-09-28 07:08:50,578 - constans - INFO - I will miss 1st line!
+2017-09-28 07:10:20,532 - constans - INFO - Close connection to database
+2017-09-28 08:08:01,682 - constans - INFO - *** Connected to host: 10.3.16.16 ***
+2017-09-28 08:08:01,684 - constans - INFO - *** Listed the directory: /opt/oss/server/var/fileint/cm/Report
+2017-09-28 08:08:01,684 - constans - INFO - You are within of: /opt/oss/server/var/fileint/cm/Report
+2017-09-28 08:08:01,687 - constans - INFO - Pattern is 08_20170928
+2017-09-28 08:08:01,687 - constans - INFO - I will download the 2g file from ftp
+2017-09-28 08:08:01,687 - constans - INFO - needed_file_name: Report_GSM Cell Report_gsm_cell_status_report_hour_08_20170928.csv
+2017-09-28 08:08:01,703 - constans - INFO - file: Report_GSM Cell Report_gsm_cell_status_report_hour_08_20170928.csv  --> /home/na_scripts/m2000_cell_status/2g_cell_report/ Report_GSM_Cell_Report_gsm_cell_status_report_hour_08_20170928.csv copied. 
+2017-09-28 08:08:01,704 - constans - INFO - Pattern is 08_20170928
+2017-09-28 08:08:01,704 - constans - INFO - I will download the 3g file from ftp
+2017-09-28 08:08:01,704 - constans - INFO - needed_file_name: Report_UMTS Cell Report_umts_cell_status_report_hour_08_20170928.csv
+2017-09-28 08:08:01,744 - constans - INFO - file: Report_UMTS Cell Report_umts_cell_status_report_hour_08_20170928.csv  --> /home/na_scripts/m2000_cell_status/3g_cell_report/ Report_UMTS_Cell_Report_umts_cell_status_report_hour_08_20170928.csv copied. 
+2017-09-28 08:08:01,745 - constans - INFO - n2g_path_file: /home/na_scripts/m2000_cell_status/2g_cell_report/Report_GSM_Cell_Report_gsm_cell_status_report_hour_08_20170928.csv, n3g_path_file:  /home/na_scripts/m2000_cell_status/3g_cell_report/Report_UMTS_Cell_Report_umts_cell_status_report_hour_08_20170928.csv
+2017-09-28 08:08:01,745 - constans - INFO - Start connecting to database
+2017-09-28 08:08:01,796 - constans - INFO - The NLS_DATE_FORMAT and NLS_TIMESTAMP_FORMAT for DB SESSION are SET
+2017-09-28 08:08:01,797 - constans - INFO - data_from_db: <cx_Oracle.Cursor on <cx_Oracle.Connection to configuration@10.1.30.64:1521/optima>>
+2017-09-28 08:08:01,797 - constans - INFO - local_time:  28.09.2017 08:08:01
+2017-09-28 08:08:01,797 - constans - INFO - the full file path:  /home/na_scripts/m2000_cell_status/2g_cell_report/Report_GSM_Cell_Report_gsm_cell_status_report_hour_08_20170928.csv
+2017-09-28 08:08:01,797 - constans - INFO - I will miss 1st line!
+2017-09-28 08:08:49,261 - constans - INFO - data_from_db: <cx_Oracle.Cursor on <cx_Oracle.Connection to configuration@10.1.30.64:1521/optima>>
+2017-09-28 08:08:49,261 - constans - INFO - local_time:  28.09.2017 08:08:01
+2017-09-28 08:08:49,261 - constans - INFO - the full file path:  /home/na_scripts/m2000_cell_status/3g_cell_report/Report_UMTS_Cell_Report_umts_cell_status_report_hour_08_20170928.csv
+2017-09-28 08:08:49,261 - constans - INFO - I will miss 1st line!
+2017-09-28 08:10:04,806 - constans - INFO - Close connection to database
+2017-09-28 09:08:01,946 - constans - INFO - *** Connected to host: 10.3.16.16 ***
+2017-09-28 09:08:01,948 - constans - INFO - *** Listed the directory: /opt/oss/server/var/fileint/cm/Report
+2017-09-28 09:08:01,949 - constans - INFO - You are within of: /opt/oss/server/var/fileint/cm/Report
+2017-09-28 09:08:01,952 - constans - INFO - Pattern is 09_20170928
+2017-09-28 09:08:01,952 - constans - INFO - I will download the 2g file from ftp
+2017-09-28 09:08:01,952 - constans - INFO - needed_file_name: Report_GSM Cell Report_gsm_cell_status_report_hour_09_20170928.csv
+2017-09-28 09:08:01,969 - constans - INFO - file: Report_GSM Cell Report_gsm_cell_status_report_hour_09_20170928.csv  --> /home/na_scripts/m2000_cell_status/2g_cell_report/ Report_GSM_Cell_Report_gsm_cell_status_report_hour_09_20170928.csv copied. 
+2017-09-28 09:08:01,969 - constans - INFO - Pattern is 09_20170928
+2017-09-28 09:08:01,970 - constans - INFO - I will download the 3g file from ftp
+2017-09-28 09:08:01,970 - constans - INFO - needed_file_name: Report_UMTS Cell Report_umts_cell_status_report_hour_09_20170928.csv
+2017-09-28 09:08:02,013 - constans - INFO - file: Report_UMTS Cell Report_umts_cell_status_report_hour_09_20170928.csv  --> /home/na_scripts/m2000_cell_status/3g_cell_report/ Report_UMTS_Cell_Report_umts_cell_status_report_hour_09_20170928.csv copied. 
+2017-09-28 09:08:02,013 - constans - INFO - n2g_path_file: /home/na_scripts/m2000_cell_status/2g_cell_report/Report_GSM_Cell_Report_gsm_cell_status_report_hour_09_20170928.csv, n3g_path_file:  /home/na_scripts/m2000_cell_status/3g_cell_report/Report_UMTS_Cell_Report_umts_cell_status_report_hour_09_20170928.csv
+2017-09-28 09:08:02,014 - constans - INFO - Start connecting to database
+2017-09-28 09:08:02,064 - constans - INFO - The NLS_DATE_FORMAT and NLS_TIMESTAMP_FORMAT for DB SESSION are SET
+2017-09-28 09:08:02,067 - constans - INFO - data_from_db: <cx_Oracle.Cursor on <cx_Oracle.Connection to configuration@10.1.30.64:1521/optima>>
+2017-09-28 09:08:02,067 - constans - INFO - local_time:  28.09.2017 09:08:01
+2017-09-28 09:08:02,067 - constans - INFO - the full file path:  /home/na_scripts/m2000_cell_status/2g_cell_report/Report_GSM_Cell_Report_gsm_cell_status_report_hour_09_20170928.csv
+2017-09-28 09:08:02,068 - constans - INFO - I will miss 1st line!
+2017-09-28 09:09:14,623 - constans - INFO - data_from_db: <cx_Oracle.Cursor on <cx_Oracle.Connection to configuration@10.1.30.64:1521/optima>>
+2017-09-28 09:09:14,623 - constans - INFO - local_time:  28.09.2017 09:08:01
+2017-09-28 09:09:14,623 - constans - INFO - the full file path:  /home/na_scripts/m2000_cell_status/3g_cell_report/Report_UMTS_Cell_Report_umts_cell_status_report_hour_09_20170928.csv
+2017-09-28 09:09:14,624 - constans - INFO - I will miss 1st line!
+2017-09-28 09:11:19,729 - constans - INFO - Close connection to database
+2017-09-28 10:08:01,876 - constans - INFO - *** Connected to host: 10.3.16.16 ***
+2017-09-28 10:08:01,879 - constans - INFO - *** Listed the directory: /opt/oss/server/var/fileint/cm/Report
+2017-09-28 10:08:01,879 - constans - INFO - You are within of: /opt/oss/server/var/fileint/cm/Report
+2017-09-28 10:08:01,882 - constans - INFO - Pattern is 10_20170928
+2017-09-28 10:08:01,883 - constans - INFO - I will download the 2g file from ftp
+2017-09-28 10:08:01,883 - constans - INFO - needed_file_name: Report_GSM Cell Report_gsm_cell_status_report_hour_10_20170928.csv
+2017-09-28 10:08:01,901 - constans - INFO - file: Report_GSM Cell Report_gsm_cell_status_report_hour_10_20170928.csv  --> /home/na_scripts/m2000_cell_status/2g_cell_report/ Report_GSM_Cell_Report_gsm_cell_status_report_hour_10_20170928.csv copied. 
+2017-09-28 10:08:01,901 - constans - INFO - Pattern is 10_20170928
+2017-09-28 10:08:01,902 - constans - INFO - I will download the 3g file from ftp
+2017-09-28 10:08:01,902 - constans - INFO - needed_file_name: Report_UMTS Cell Report_umts_cell_status_report_hour_10_20170928.csv
+2017-09-28 10:08:01,947 - constans - INFO - file: Report_UMTS Cell Report_umts_cell_status_report_hour_10_20170928.csv  --> /home/na_scripts/m2000_cell_status/3g_cell_report/ Report_UMTS_Cell_Report_umts_cell_status_report_hour_10_20170928.csv copied. 
+2017-09-28 10:08:01,948 - constans - INFO - n2g_path_file: /home/na_scripts/m2000_cell_status/2g_cell_report/Report_GSM_Cell_Report_gsm_cell_status_report_hour_10_20170928.csv, n3g_path_file:  /home/na_scripts/m2000_cell_status/3g_cell_report/Report_UMTS_Cell_Report_umts_cell_status_report_hour_10_20170928.csv
+2017-09-28 10:08:01,948 - constans - INFO - Start connecting to database
+2017-09-28 10:08:02,005 - constans - INFO - The NLS_DATE_FORMAT and NLS_TIMESTAMP_FORMAT for DB SESSION are SET
+2017-09-28 10:08:02,007 - constans - INFO - data_from_db: <cx_Oracle.Cursor on <cx_Oracle.Connection to configuration@10.1.30.64:1521/optima>>
+2017-09-28 10:08:02,008 - constans - INFO - local_time:  28.09.2017 10:08:01
+2017-09-28 10:08:02,008 - constans - INFO - the full file path:  /home/na_scripts/m2000_cell_status/2g_cell_report/Report_GSM_Cell_Report_gsm_cell_status_report_hour_10_20170928.csv
+2017-09-28 10:08:02,008 - constans - INFO - I will miss 1st line!
+2017-09-28 10:09:00,627 - constans - INFO - data_from_db: <cx_Oracle.Cursor on <cx_Oracle.Connection to configuration@10.1.30.64:1521/optima>>
+2017-09-28 10:09:00,627 - constans - INFO - local_time:  28.09.2017 10:08:01
+2017-09-28 10:09:00,627 - constans - INFO - the full file path:  /home/na_scripts/m2000_cell_status/3g_cell_report/Report_UMTS_Cell_Report_umts_cell_status_report_hour_10_20170928.csv
+2017-09-28 10:09:00,627 - constans - INFO - I will miss 1st line!
+2017-09-28 10:10:41,143 - constans - INFO - Close connection to database

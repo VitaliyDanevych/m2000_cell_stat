@@ -1,0 +1,55 @@
+#!/usr/bin/python
+__AUTHOR__='Danevych V.'
+__COPYRIGHT__='Danevych V. 2015 Kiev, Ukraine'
+__version__ = "4.0.0"
+__status__ = "Production"
+#vim: tabstop=8 expandtab shiftwidth=4 softtabstop=4
+
+import datetime
+import logging
+import logging.handlers
+
+
+HOST = '10.3.16.16' #Huawei OSS Kiev
+#HOST = '10.3.65.16' # Huawei OSS Dnepr
+USER = 'ftpu*'
+PASSWD = 'Cha*'
+TO_COPY_DIR_2G = '/home/na_scripts/m2000_cell_status/2g_cell_report/'
+TO_COPY_DIR_3G = '/home/na_scripts/m2000_cell_status/3g_cell_report/'
+HOUR = datetime.datetime.now().strftime("%H")  #14
+DAY = datetime.datetime.now().strftime("%d")
+MONTH = datetime.datetime.now().strftime("%m")
+YEAR = datetime.datetime.now().strftime("%Y")
+localtime = datetime.datetime.now().strftime("%d.%m.%Y %H:%M:%S")
+
+db_user, db_passwd, db_host_sid = ('config*','configura*','1.1.1.1:1521/optima') # optima7
+
+LOG_FILENAME = '/home/na_scripts/m2000_cell_status/m2000_cell_status.log'
+EMAIL_TEXT = """ The script into folder /home/na_scripts/m2000_cell_status/ on 10.1.32.100 host has
+                 detected an exception which affect its normal work. The data at configuration.m2000_2g_cell_status@optima7
+                 and configuration.m2000_3g_cell_status@optima7 might not be updated.
+                 Please, check debug log %s into mentioned folder and fix this issue
+             """ % LOG_FILENAME
+
+MAILHOST = 'smtpXXX.astelXX.ukr'
+FROM     = 'm2000_cell_status_script@ora-vsrv.com'
+TO       = ['oss_g*@lifecell.com.ua']
+#TO       = ['vitaliy.danevych@lifecell.com.ua']
+SUBJECT  = 'The Huawei OSS M2000 script has serious error'
+
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.INFO)
+fh = logging.handlers.RotatingFileHandler(LOG_FILENAME, maxBytes=1024*1024, backupCount=1)
+# Add the log message handler to the logger
+#fh = logging.FileHandler(LOG_FILENAME)
+fh.setLevel(logging.DEBUG)
+# create console handler with a higher log level
+ch = logging.StreamHandler()
+ch.setLevel(logging.CRITICAL) #ch.setLevel(logging.ERROR)
+# create formatter and add it to the handlers
+formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+ch.setFormatter(formatter)
+fh.setFormatter(formatter)
+# add the handlers to logger
+logger.addHandler(ch)
+logger.addHandler(fh)
