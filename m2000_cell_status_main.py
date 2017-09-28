@@ -101,6 +101,12 @@ def insert_sql(filename, type_of_network):
 
 def main():
   logger.debug('start program')
+<<<<<<< HEAD
+=======
+  #msg = 'xxF00xA14'
+  #logging_mail.send('The Type-Error occured: %s %s' % (msg, EMAIL_TEXT))
+  #exit()
+>>>>>>> a01a82db9374aac49ddf36acddfb9faa13eeb2ef
   logger.debug('the connect_ftp function has started')  
   m2000_cell_status_ftp.connect_ftp()
   logger.debug('the connect_ftp function has ended') 
